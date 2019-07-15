@@ -1,7 +1,5 @@
 node_modules/**/*
-.DS_Store
 .expo/*
-.DS_Store
 npm-debug.*
 *.jks
 *.p12
