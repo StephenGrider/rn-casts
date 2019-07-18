@@ -5,9 +5,11 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "db": "json-server -w db.json"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "expo": "^33.0.0",
     "json-server": "^0.15.0",
     "react": "16.8.3",
