@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "expo": "^33.0.0",
+    "json-server": "^0.15.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
