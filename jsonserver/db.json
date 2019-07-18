@@ -14,6 +14,16 @@
       "title": "Third post creation",
       "content": "Asdofjl",
       "id": 3
+    },
+    {
+      "title": "4",
+      "content": "Alskdjlkdf",
+      "id": 4
+    },
+    {
+      "title": "Add blog post 5",
+      "content": "Asdfasdfasdf",
+      "id": 5
     }
   ]
 }
