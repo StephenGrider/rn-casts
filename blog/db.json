@@ -4,6 +4,11 @@
       "id": 1,
       "title": "My blog post",
       "content": "some content"
+    },
+    {
+      "title": "Second blog post",
+      "content": "Second piece of content",
+      "id": 2
     }
   ]
 }
