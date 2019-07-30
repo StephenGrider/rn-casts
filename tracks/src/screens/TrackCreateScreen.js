@@ -1,3 +1,4 @@
+import '../_mockLocation';
 import React, { useEffect, useState } from 'react';
 import { StyleSheet } from 'react-native';
 import { Text } from 'react-native-elements';
