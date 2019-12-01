@@ -33,7 +33,7 @@ export default (shouldTrack, callback) => {
       subscriber.remove();
       setSubscriber(null);
     }
-  }, [shouldTrack]);
+  }, [shouldTrack, callback]); // DONT SAVE!!!!
 
   return [err];
 };
