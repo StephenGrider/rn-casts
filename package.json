@@ -19,5 +19,21 @@
     "react-native-gesture-handler": "^1.9.0",
     "babel-preset-expo": "^5.1.1"
   },
-  "private": true
+  "name": "getting-started-with-react-native",
+  "version": "1.0.0",
+  "description": "React Native",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptamadhur/Getting-Started-with-React-Native.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Madhur Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guptamadhur/Getting-Started-with-React-Native/issues"
+  },
+  "homepage": "https://github.com/guptamadhur/Getting-Started-with-React-Native#readme"
 }
